@@ -1,0 +1,34 @@
+.butn {
+  width: 75px;
+  height: 75px;
+}
+.top {
+  margin: 0;
+}
+
+.clear {
+  font-size: 30px;
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+.screen {
+  font-size: 30px;
+  float: inherit;
+  height: 100px;
+  width: 600px;
+}
+
+.bdy {
+  font-size: 30px;
+  width: 600px;
+  height: 600px;
+  padding-top: 30px;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+}
